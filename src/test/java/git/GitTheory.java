@@ -20,5 +20,4 @@ public class GitTheory {
     //Push = trimiterea modificarilor locale catre un repository remote(GIT LOCAl->GIT HUB REMOTE);
     //Pull = descarcarea ultimelor modificari de pe remote pe local(GIT HUB REMOTE->GIT LOCAL);
 
-
 }
